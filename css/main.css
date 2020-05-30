@@ -1,0 +1,472 @@
+@import url("https://use.typekit.net/dps4chv.css");
+
+body{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century-gothic, sans-serif;
+    width: 100%;
+}
+
+.navbar{
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    box-shadow: 0px 0px 20px;
+}
+
+.btn-buttom-1{
+    margin-left: 80px;
+    margin-top: -2px
+}
+
+#logo{
+    margin-left: 77px;
+}
+
+.navbar-text{
+    margin-left: 296px;
+}
+
+.btn-buttom-1{
+    width: 180px;
+    background-color:  #f10065;
+    color: #ffffff;
+    margin-top: 3px;
+    margin-left: 308px;
+}
+
+.btn-buttom-1:hover{
+    border: solid thin #f10065;
+    background-color: #ffffff;
+    color: #f10065;
+    font-weight: 600;
+ } 
+
+ .nav-text1{
+    text-align: left;
+    margin-left: 100px;
+    font-size: 1em;
+    }
+
+    .nav-text2{
+        font-size: 1em;
+        margin-left: 48px;
+     }
+       
+       .nav-text3{
+         font-size: .8em;
+         color: #a8a8a8e8;
+         margin-left: 48px;
+       } 
+       
+       p{
+         line-height: 1em;  
+       }
+
+ .sections-1{
+     margin-top: 180px;
+     text-align: center;
+     font-size: 4.5em;
+     box-sizing: border-box;
+     font-weight: 600;   
+ }
+
+ .text-1{
+    color: #33adff;
+}
+
+.text-2, .text-3, .text-4{
+    color: #333366;
+}
+
+.sections-2{
+    /* margin-left: 80px; */
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.text-3{
+    font-family: century-gothic, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    margin-left: -150px;
+    line-height: 1em;
+     font-size: 2em;
+}
+
+ .text-4{
+    font-family: century-gothic, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    margin-left: -145px;
+    line-height: .5em;
+    font-size: 2em;
+    
+}
+
+#check{
+    position: relative;
+    left: 100px;
+    top: -90px;
+    width: 80px;
+}
+
+.boton-2{
+    margin-bottom: 100px;
+}
+
+/* .buttom-cont{
+    display: none;
+} */
+
+.sections-3{
+    /* margin-top: 20px; */
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    
+}
+
+.Robo-401{
+    color: #333366;
+    text-align: center;
+    font-size: 2.1em;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.sections-19{
+    margin-bottom: 290px;
+    margin-top: 150px;
+    /* text-align: center; */
+}
+
+
+
+.text-celphone{
+    width: 60%;
+    margin: 20px auto;
+    padding: 15px;
+    color: #828383;
+   /*  font-size: 1.4em;
+    margin-left: 400px; */
+}
+
+.celphone{
+  position: relative;
+  left: 58px;
+  top: -117px;
+  width: 30%;
+}
+
+.celphone-3{
+    display: none;
+}
+
+.reset {
+  clear: both;
+}
+
+.celphone-2{
+  font-size: 1.5em;  
+  margin-top: -350px;
+  margin-left: 290px;
+  margin-right: -82px;
+  line-height: 1.3em;
+}
+
+.sections-4{
+    text-align: center;
+    margin-top: -100px;
+}
+
+.text-payfor{
+    color: #333366;
+    font-size: 2.5em;
+    font-weight: 600;
+    margin-top: 80px;
+    margin-left: -100px;
+}
+
+#payfor{
+    float: right;
+    margin-top: -125px;
+    margin-right: 234px;
+    width: 120px;
+    
+}
+
+.sections-5{
+    margin-top: 80px;
+    margin-left: 260px;
+    margin-bottom: 100px;
+}
+
+.lista li{
+    color: #828383;
+    font-size: 1.5em;
+    margin-left: 80px;
+   
+}
+
+.sections-6{
+    margin-top: 80px;
+    margin-left: 390px;
+    margin-bottom: -70px;
+}
+
+.btn-buttom-2{
+    width: 180px;
+    background-color:  #f10065;
+    color: #ffffff;
+    margin-top: 50px;
+}
+
+.btn-buttom-2:hover{
+    border: solid thin #f10065;
+    background-color: #ffffff;
+    color: #f10065;
+    font-weight: 600;
+ } 
+
+ #we-help{
+     box-sizing: border-box;
+     width: 100%;
+ }
+
+ .sections-7 p{
+     color: #828383;
+      line-height: 1.5em;
+      font-size: 1.5em;
+     margin-top: 10px;
+     margin-left: 232px;
+     margin-right: 423px;
+ }
+
+
+.check-2{
+    position: relative;
+    left: 695px;
+    top: -127px;
+    width: 100px;
+}
+
+#horizontal{
+    width: 150px;
+    color: #333366;
+    border: 1px solid;
+}
+
+.sections-8{
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+
+.NO{
+    color: #333366;
+    font-weight: 800;
+    margin-left: 280px;
+    font-size: 7em;
+}
+
+.no-text{
+    color: #333366;
+    margin-top: 5px;
+    
+}
+
+.no-text p{
+    font-size: 1.8em;
+    font-weight: 700;
+    margin-left: 0px;
+}
+
+#use-arobo{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.sections-10{
+    margin-top: -60px;
+}
+
+.sections-10 p{
+    text-align: left;
+    margin-left: 241px;
+    margin-right: 229px;
+    font-size: 1.5em;
+    color: #828383;
+    line-height: 1.2em;
+}
+
+/* .sections-11{
+    margin-top: 150px;
+    margin-bottom: -345px;
+} */
+
+.text-increase{
+    font-size: 1.5em;
+    color: #828383;
+    line-height: 1.3em;
+    margin-top: -347px;
+    margin-left: 532px; 
+    margin-right: 374px;
+}
+
+#increase{
+    position: relative;
+    left: 243px;
+    top: 63px;
+    width: 300px;
+    height: 450px;
+}
+
+.text-employees p{
+    text-align: left;
+    margin-left: 248px;
+    margin-right: 266px;
+    font-size: 1.5em;
+    color: #828383;
+    line-height: 1.5em;
+}
+
+.sections-12{
+    margin-top: 100px;
+}
+
+.sections-13{
+    margin-left: 32px;
+}
+
+.meet{
+    font-size: 1.5em;
+    /*! margin-left: 126px; */
+    margin-top: 30px;
+    text-align: center;
+}
+
+.sections-14{
+    margin-top: 100px;
+    text-align: center;
+    color: #333366;
+    font-size: 3.5em;
+}
+
+.text-value-1, .text-value-2{
+    line-height: .8em;
+}
+
+#bottom{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.sections-15{
+    margin-bottom: -40px;
+}
+
+#value-2A{
+   display: block;
+   margin: auto;
+    width: 700px;
+   
+}
+
+.sections-16{
+    margin-top: 120px;
+    margin-left: 380px;
+    margin-bottom: 120px;
+}
+
+.sections-17{
+    margin-top: 120px;
+}
+
+#downloable{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+#buttom-left{
+    box-sizing: border-box;
+    width: 50%;
+}
+
+#buttom-right{
+    box-sizing: border-box;
+    width: 50%;
+    float: right;
+}
+
+.sections-18{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+#logo-foter{
+    display: block;
+    margin: auto;
+    width: 200px;
+   
+}
+
+.sections-20{
+        margin-top: 150px;
+        margin-bottom: 120px;
+        font-size: 4.5em;
+        text-align: center;
+        font-weight: 800;
+    }
+
+
+
+ .modificada-1{
+     display: none;
+ }
+
+ .we-help-2{
+     display: none;
+ }
+
+ .downloable-1{
+     display: none;
+ }
+
+ .downloable-2{
+    display: none;
+ }
+
+ .downloable-3{
+     display: none;
+ }
+
+ .use-arobo-2{
+     display: none;
+ }
+
+
+
+
+
+
+
+
+/* ********************** RESPONSIVE DISIGN ************************* */
+/* ********************************************************************* */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

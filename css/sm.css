@@ -1,0 +1,180 @@
+/* Small sm */
+/* @media (min-width: 576px) and (max-width: 767.5px) */
+@media (min-width: 576px) and (max-width: 767.5px){
+
+     #logo{
+       margin-left: 21px;
+       width: 100px;
+
+ }
+
+   .navbar-text{
+       margin-right: 30px;
+       margin-left: 0px;
+   }
+
+   .btn-buttom-1{
+    /* width: 135px;
+    background-color:  #f10065;
+    color: #ffffff;
+    margin-left: 0px;
+    margin-right: 0px; */
+    display: none;
+    
+}
+
+.sections-1{
+    font-size: 3.1em;
+}
+
+.sections-2{
+  margin-bottom: -20px;
+}
+
+.sections-3{
+  margin-top: 120px;
+  margin-bottom: 150px;
+}
+
+.celphone-2{
+    margin-left: -57px;
+    margin-right: 102px;
+    margin-top: 52px;
+}
+
+.celphone-3{
+  display: inline;
+  margin: auto;
+  margin-left: 25px;
+}
+
+.celphone{
+   /*  position: relative;
+    left: -80px;
+    top: 100px;
+    width: 60%; */
+    display: none;
+  }
+
+  .sections-19{
+      margin-top: -50px;
+  }
+
+  #payfor{
+      margin-top: -200px;
+      margin-left: -100px;
+      margin-right: 180px;
+  }
+
+  .text-payfor{
+      margin-left: 0px;
+  }
+
+  .lista li{
+    margin-left: -237px;
+    margin-right:  37px;
+    text-align: left;
+}
+
+  .btn-success{
+     /*  margin-left: 200px; */
+     display: none;
+  }
+
+  
+  .sections-7 p{
+    color: #828383;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    margin-top: 221px;
+    margin-left: 46px;
+    margin-right: 40px;
+    text-align: left;
+}
+
+.check-2{
+    position: relative;
+    left: 187px;
+    top: -344px;
+    width: 26%;
+}
+
+  .NO{
+      margin-left: 167px;
+  }
+
+  .no-text{
+    color: #333366;
+    margin-top: 143px;
+    
+}
+
+.no-text p{
+    font-size: 1.8em;
+    font-weight: 700;
+    margin-left: -188px;
+}
+
+  .sections-10 p{
+      text-align: left;
+      margin-left: 50px;
+      margin-right: 40px;
+  }
+
+   .text-increase{
+        margin-left: 66px;
+        margin-right: 241px;
+        margin-top: 77px;
+    }
+
+     #increase{
+        position: relative;
+        left: 122px;
+        top: 31px;
+        width: 55%;
+     }
+
+  .text-employees p{
+        margin-left: 25px;
+        margin-right: -1px;
+        margin-top: -31px;
+        text-align: left;
+     }
+
+     .meet{
+        /* margin-left: -98px; */
+        /* margin-right: 50px; */
+        text-align: center;
+    }
+
+  #value-2A{
+      display: block;
+      margin: auto;
+      width: 87%;
+  }
+
+  .sections-17{
+    margin-top: 60px;
+  }
+
+  .sections-20{
+      text-align: center;
+      font-size: 3.1em;
+      margin-bottom: 60px;
+ }
+
+ #logo-foter{
+     display: block;
+     margin: auto;
+ }
+
+ .sections-7{
+  margin-bottom: -80px;
+ }
+
+ .sections-10{
+  margin-top: 10px;
+ }
+ 
+
+}

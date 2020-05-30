@@ -1,0 +1,175 @@
+/* Large lg */
+/* @media (min-width: 992px) and (max-width: 1199.5px) */
+@media (min-width: 992px) and (max-width: 1199.5px){
+
+  body{
+    width: 100%;
+  }
+   
+   .btn-buttom-1{
+       margin-left: 200px;
+       margin-top: 0px;
+   }
+
+   .navbar-text{
+       margin-left: 197px;
+   }
+
+   #logo{
+    margin-left: 22px;
+    
+   }
+
+   .buttom-cont{
+    display: inline;
+    
+}
+
+   .text-celphone{
+    margin-left: 400px;
+   }
+
+   .celphone-2{
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 10px;
+    margin-top: -244px;
+   }
+
+   .celphone{
+    position: relative;
+    left: -186px;
+    top: -50px;
+    width: 30%;
+  }
+
+
+    .NO{
+        margin-left: 197px;
+        font-size: 8em;
+    }
+
+    .sections-10{
+        margin-left: 100px;
+    }
+    
+    .sections-10 p{
+        margin-left: 127px;
+        margin-right: 190px;
+        text-align: left;
+        margin-top: 80px;
+     }
+
+    /* #increase{
+        position: relative;
+        left: 152px;
+        top: -454px;
+    } */
+
+    /* .text-increase{
+        margin-left: 530px; 
+    } */
+
+    .text-employees{
+        margin-left: 220px;
+    }
+
+    .sections-15{
+        margin-bottom: -100px;
+    }
+
+    #value-2A{
+        width: 600px;
+        margin-left: 180px;
+    }
+
+    .sections-16{
+        margin-left: 390px;
+    }
+
+    #payfor{
+        box-sizing: border-box;
+       position: relative;
+       left: 85px;
+       top: 0px;
+       }
+
+    .btn-success{
+       display: none;
+    }
+
+    .sections-3{
+        margin-top: 20px;
+    }
+
+    .sections-7{
+        margin-top: -350px;
+    }
+   
+    .sections-7 p{
+       color: #828383;
+       line-height: 1.5em;
+       font-size: 1.5em;
+       margin-top: 411px;
+       margin-left: 180px;
+       margin-right: 328px;
+       text-align: left;
+   }
+
+   .check-2{
+    position: relative;
+    left: 672px;
+    top: -122px;
+    width: 85px;
+}
+
+.lista li{
+    margin-left: -48px;
+}
+
+#increase{
+    position: relative;
+    left: 206px;
+    top: 25px;
+}
+
+.text-increase{
+    margin-left: 489px;
+    margin-right: 189px; 
+}
+
+.text-employees p{
+    margin-left: -35px;
+    margin-right: 150px;
+    text-align: left;
+ }
+
+ .meet{
+    /*! margin-left: 98px; */
+    /*! margin-right: 50px; */
+    text-align: center;
+}
+
+.sections-20{
+    margin-bottom: 80px;
+}
+
+.sections-17{
+    margin-top: 80px;
+}
+
+.we-help{
+  width: 100%
+}
+
+.Robo-401{
+  font-size: 2.5em;
+}
+
+.boton-2{
+  margin-top: 100px;
+}
+
+
+    
+}
